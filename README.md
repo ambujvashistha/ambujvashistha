@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ambuj_vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambuj_vashistha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ambujvashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ambujvashistha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ambujvashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ambujvashistha" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ambuj_vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ambuj_vashistha" height="30" width="40" /></a>
 </p>
 
