@@ -1,4 +1,4 @@
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/22180.png">
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/11600.jpeg">
 
 ## Hi there 👋
 <!--
