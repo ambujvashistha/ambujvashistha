@@ -1,5 +1,4 @@
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/11600.jpeg">
-
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Linkedin%20Banner%20Pokemon%20(1).png">
 ## Hi there 👋
 
 
