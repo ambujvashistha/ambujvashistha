@@ -1,5 +1,5 @@
 
-![Lively Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/GitHub%20Banner%20Pokemon.gif)
+![Lively Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/GitHub%20Profile%20Banner%20Pokemon.gif)
 
 ## Hi there 👋
 
