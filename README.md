@@ -1,4 +1,6 @@
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Linkedin%20Banner%20Pokemon%20(1).png" width="100%">
+
+![Lively Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/GitHub%20Banner%20Pokemon.gif)
+
 ## Hi there 👋
 
 
