@@ -1,5 +1,4 @@
-![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/GitHub%20Profile%20Banner%20Pokemon.gif)
-
+![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
 <h1 align="center">Hi 👋, I'm Ambuj Vashistha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
