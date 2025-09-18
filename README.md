@@ -7,7 +7,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="left">
   <tr>
