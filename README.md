@@ -30,7 +30,7 @@
       <br>Nodejs
       </td>
   </tr>
-  <tr></tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
