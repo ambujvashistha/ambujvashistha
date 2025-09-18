@@ -73,6 +73,24 @@
 </div>
 <br clear="both"/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ambuj-vashistha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ambuj_vashistha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@ambujvashistha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" />
+  </a>
+  <a href="https://codeforces.com/profile/ambuj_vashistha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codeforces" width="40" height="40" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/ambuj_vashistha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode" />
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
