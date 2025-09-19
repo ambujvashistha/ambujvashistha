@@ -75,13 +75,13 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ambuj-vashistha" target="_blank">
+  <a href="https://linkedin.com/in/ambuj-vashistha" target="blank">
     <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/linkedin.svg" width=85>
   </a>
-  <a href="https://instagram.com/ambuj_vashistha" target="_blank">
+  <a href="https://instagram.com/ambuj_vashistha" target="blank">
     <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=85>
   </a>
-  <a href="https://www.youtube.com/@ambujvashistha" target="_blank">
+  <a href="https://www.youtube.com/@ambujvashistha" target="blank">
     <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/youtube_bubble.svg" width=85>
   </a>
 
