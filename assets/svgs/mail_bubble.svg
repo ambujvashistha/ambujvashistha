@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <!-- Bubble gradient -->
+    <radialGradient id="gmailGrad" cx="0.35" cy="0.30" r="0.9">
+      <stop offset="0" stop-color="#ff6b61"/>
+      <stop offset="1" stop-color="#EA4335"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Kirby dots (orbit) -->
+  <circle cx="28" cy="42" r="7" fill="#FBBC05" opacity="0.85"/>
+  <circle cx="162" cy="50" r="5" fill="#34A853" opacity="0.85"/>
+  <circle cx="48" cy="168" r="6" fill="#38bdf8" opacity="0.85"/>
+  <circle cx="148" cy="158" r="8" fill="#a78bfa" opacity="0.85"/>
+  <circle cx="100" cy="18" r="4" fill="#f472b6" opacity="0.85"/>
+
+  <!-- Bubble -->
+  <circle cx="100" cy="100" r="60" fill="url(#gmailGrad)" />
+
+  <!-- Gloss highlight -->
+  <ellipse cx="75" cy="70" rx="34" ry="16" fill="#ffffff40" transform="rotate(-20 75 70)"/>
+
+  <!-- Gmail "M" logo -->
+  <g transform="translate(100,105) scale(1.3)">
+    <!-- Envelope background -->
+    <rect x="-32" y="-22" width="64" height="44" rx="4" ry="4" fill="#fff"/>
+    <!-- Red M outline -->
+    <path d="M-32 -22 L0 2 L32 -22 V22 H-32 Z" fill="none" stroke="#EA4335" stroke-width="6" stroke-linejoin="round"/>
+  </g>
+</svg>
