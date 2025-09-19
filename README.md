@@ -2,13 +2,14 @@
 
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
-
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=100>
+<div >
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=85>
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/linkedin.svg" width=85>
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/youtube_bubble.svg" width=85>
+</div>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-instagram-logo-50.png">
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-instagram-logo-100.png">
 
 
 <h3 align="left">Tech Stack</h3>
