@@ -1,4 +1,4 @@
-<h2 align="left">Ambuj Vashistha</h2>
+<!--<h2 align="left">Ambuj Vashistha</h2> -->
 
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
