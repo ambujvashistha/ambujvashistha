@@ -2,12 +2,7 @@
 
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
-<div >
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=85>
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/linkedin.svg" width=85>
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/youtube_bubble.svg" width=85>
-</div>
+
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
@@ -78,23 +73,19 @@
 </div>
 <br clear="both"/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ambuj-vashistha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+    <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/linkedin.svg" width=85>
   </a>
   <a href="https://instagram.com/ambuj_vashistha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+    <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=85>
   </a>
   <a href="https://www.youtube.com/@ambujvashistha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" />
+    <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/youtube_bubble.svg" width=85>
   </a>
-  <a href="https://codeforces.com/profile/ambuj_vashistha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codeforces" width="40" height="40" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/ambuj_vashistha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode" />
-  </a>
+
+  <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
 </p>
 
 
