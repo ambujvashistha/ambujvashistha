@@ -4,9 +4,11 @@
 
 
 
+
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-instagram-logo-50.png">
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-instagram-logo-100.png">
 
 
 <h3 align="left">Tech Stack</h3>
