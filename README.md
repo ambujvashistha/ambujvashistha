@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
 
-
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=100>
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
