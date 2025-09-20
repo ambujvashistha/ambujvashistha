@@ -79,7 +79,7 @@
     <img 
       src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg"
       style="object-fit: cover;"
-      height=250
+      height=230
       width="auto"
       alt="Peter Gwen"
     >
