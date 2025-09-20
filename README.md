@@ -3,12 +3,12 @@
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
 
-
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 
+
+<div style="display: flex; align-items: flex-start; align: center; margin: 0;">
 <h3 align="left">Tech Stack</h3>
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="left">
   <tr>
     <td align="center" width="96">
@@ -70,6 +70,9 @@
 
  </tr>
 </table>
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg" width="612">
+
+![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 </div>
 <br clear="both"/>
 
