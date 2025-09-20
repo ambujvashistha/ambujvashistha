@@ -75,7 +75,7 @@
 </table>
 </div>
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column; align-items:center; justify-content:center">
     <img 
       src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg"
       style="object-fit: cover;"
