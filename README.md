@@ -7,7 +7,7 @@
 
 
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center">
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
