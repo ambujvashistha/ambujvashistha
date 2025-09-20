@@ -107,7 +107,7 @@
 
 
 
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg" width="450">
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg">
 
 ![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 
