@@ -70,7 +70,7 @@
 
  </tr>
 </table>
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg" width="550">
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg" width="450">
 
 ![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 </div>
