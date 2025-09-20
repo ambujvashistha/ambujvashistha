@@ -7,7 +7,10 @@
 
 
 
-<div style="display: flex; align-items: flex-start; align: center; margin: 0;">
+<div style="display: flex; gap: 20px;">
+
+<div id="tech-stack" style="display: flex; flex-direction: column;">
+
 <h3 align="left">Tech Stack</h3>
 <table align="left">
   <tr>
@@ -70,11 +73,22 @@
 
  </tr>
 </table>
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg" width="450">
+</div>
 
-![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
+<div style="display: flex; flex-direction: column;">
+    <img 
+      src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg"
+      style="object-fit: cover;"
+      height=300
+      width="auto"
+      alt="Peter Gwen"
+    >
+  </div>
+    
 </div>
 <br clear="both"/>
+
+
 
 <h3 align="left">Socials</h3>
 <p align="left">
@@ -91,6 +105,11 @@
   <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
 </p>
 
+
+
+<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg" width="450">
+
+![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
