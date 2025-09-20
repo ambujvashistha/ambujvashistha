@@ -107,7 +107,7 @@
 
 
 
-<img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg">
+![Peter-Gwen](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/TECH%20STACK.gif)
 
 ![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 
