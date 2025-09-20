@@ -75,13 +75,13 @@
 </table>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items:center; justify-content:center">
+
+   <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
     <img 
       src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg"
-      style="object-fit: cover;"
-      height=230
-      width="auto"
       alt="Peter Gwen"
+      height="230" 
+      style="object-fit: cover;"
     >
   </div>
     
