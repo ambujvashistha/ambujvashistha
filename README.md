@@ -85,8 +85,41 @@
       height="230" 
       style="object-fit: cover;"
     >
-  </div>
-    
+   </div>
+
+<table align="left">
+  <tr>
+    <td align="center" width="66">
+        <a href="https://linkedin.com/in/ambuj-vashistha" target="blank">
+       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  margin="5"/>
+        </a>
+    </td>
+    <td align="center" width="66">
+      <a href="https://www.youtube.com/@ambujvashistha" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
+      </a>
+    </td>
+    <td align="center" width="66">
+        <a href="https://instagram.com/ambuj_vashistha" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+        </a>
+    </td>
+     <td align="center" width="66">
+      <a href="https://www.youtube.com/@ambujvashistha" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
+      </a>
+    </td>
+    <td align="center" width="66">
+        <a href="https://instagram.com/ambuj_vashistha" target="blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+        </a>
+    </td>
+     <td align="center" width="66">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  /> 
+      </td>
+  </tr>
+
+</table>    
 </div>
 <br clear="both"/>
 
