@@ -139,11 +139,3 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-  <a href="https://www.youtube.com/@ambujvashistha" target="blank">
-    <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/youtube_bubble.svg" width=85>
-  </a>
-
-  <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
-</p>
-
