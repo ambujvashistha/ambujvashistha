@@ -85,7 +85,7 @@
       height="230" 
       style="object-fit: cover;"
     >
-   </div>
+   
 
 <table align="left">
   <tr>
@@ -120,7 +120,8 @@
      
   </tr>
 
-</table>    
+</table> 
+</div>
 </div>
 <br clear="both"/>
 
