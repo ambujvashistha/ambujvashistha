@@ -64,8 +64,8 @@
       <br>MySQL
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/FastAPI.png" width="48" height="48" alt="Fast API" />
+      <br>Fast API
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -74,20 +74,20 @@
  </tr>
   <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/logo-sm.webp" width="48" height="48" alt="Auth" />
       <br>Auth
     </td>
     
 <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/Express.png" alt="express" width="48" height="48" />
       <br>Express
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/react-native-1.svg" width="70" height="70" alt="React Native" />
       <br>Native
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/icons8-prisma-orm-240.png" alt="Prisma" width="65" height="65" />
       <br>Prisma
     </td>
  </tr>
@@ -113,14 +113,14 @@
        <br>Linkedin
     </td>
       <td align="center" width="70">
-      <a href="https://www.youtube.com/@ambujvashistha" target="blank">
-        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/code-forces.svg" width="55" height="40" alt="youtube logo"  />
+      <a href="https://codeforces.com/profile/ambuj_vashistha" target="blank">
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/code-forces.svg" width="55" height="40" alt="codeforces logo"  />
       </a>
       <br>Codeforces
     </td>
     <td align="center" width="70">
-        <a href="https://instagram.com/ambuj_vashistha" target="blank">
-        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="55" height="40" alt="instagram logo"  />
+        <a href="https://leetcode.com/u/ambuj_vashistha/" target="blank">
+        <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="55" height="40" alt="leetcode logo"  />
         </a>
        <br>Leetcode
     </td>
