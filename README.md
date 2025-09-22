@@ -104,7 +104,7 @@
     >
    
 <h3 align="center">Socials</h3>
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="66">
         <a href="https://linkedin.com/in/ambuj-vashistha" target="blank">
