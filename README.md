@@ -2,7 +2,9 @@
 
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
-
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 
@@ -105,15 +107,21 @@
   <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
 </p>
 
+<img src="https://github-profile-trophy.vercel.app?username=ambujvashistha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 ![Peter-Gwen](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/TECH%20STACK_20250922_114302_0000.gif)
 
 ![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ambuj_vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambuj_vashistha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ambujvashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ambujvashistha" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ambuj_vashistha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ambuj_vashistha" height="30" width="40" /></a>
-</p>
 
 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ambujvashistha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujvashistha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ambujvashistha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
