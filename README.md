@@ -104,11 +104,7 @@
 
   <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/mail_bubble.svg" width=85>
 </p>
-
-
-
-![Peter-Gwen](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/TECH%20STACK.gif)
-
+![Peter-Gwen](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/TECH%20STACK_20250922_114302_0000.gif)
 ![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
 
 <h3 align="left">Connect with me:</h3>
