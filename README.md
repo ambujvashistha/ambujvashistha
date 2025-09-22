@@ -80,7 +80,7 @@
 
    <div style="display: table-cell; vertical-align: middle; padding-left: 20px;">
     <img 
-      src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/peter_gwen.jpg"
+      src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/wallpapers/Web_Photo_Editor.jpg"
       alt="Peter Gwen"
       height="230" 
       style="object-fit: cover;"
