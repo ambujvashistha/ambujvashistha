@@ -115,7 +115,7 @@
     </td>
      <td align="center" width="66">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  /> 
-        <br>G-Mail
+        <br>Gmail
       </td>
      
   </tr>
