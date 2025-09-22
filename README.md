@@ -124,18 +124,11 @@
 </div>
 </div>
 <br clear="both"/>
+
+---
 <img src="https://github-profile-trophy.vercel.app?username=ambujvashistha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-
-
-
-
-![Peter-Gwen](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/TECH%20STACK_20250922_114302_0000.gif)
-
-![](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/ezgif.com-crop.gif)
-
-
-
+---
 
 ###
 
@@ -147,16 +140,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
-
-<h3 align="left">Socials</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ambuj-vashistha" target="blank">
-    <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/linkedin.svg" width=85>
-  </a>
-  <a href="https://instagram.com/ambuj_vashistha" target="blank">
-    <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/insta_bubble.svg" width=85>
-  </a>
   <a href="https://www.youtube.com/@ambujvashistha" target="blank">
     <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/svgs/youtube_bubble.svg" width=85>
   </a>
