@@ -86,7 +86,7 @@
       style="object-fit: cover;"
     >
    
-
+<p>Socials</p>
 <table align="left">
   <tr>
     <td align="center" width="66">
