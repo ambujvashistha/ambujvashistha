@@ -103,7 +103,7 @@
       style="object-fit: cover;"
     >
    
-<h1 align="center">Socials</h1>
+<h3 align="center">Socials</h3>
 <table align="left">
   <tr>
     <td align="center" width="66">
