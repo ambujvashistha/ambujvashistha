@@ -103,7 +103,7 @@
       style="object-fit: cover;"
        > 
       
-   > *"With great power, comes great responsibility."*  
+   > **_"With great power, comes great responsibility."_**  
    
 <h3 align="center">Socials</h3>
 <table align="center">
