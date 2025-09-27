@@ -101,7 +101,9 @@
       alt="Peter Gwen"
       height="230" 
       style="object-fit: cover;"
-    >
+       > 
+      
+   > *"With great power, comes great responsibility."*  
    
 <h3 align="center">Socials</h3>
 <table align="center">
@@ -155,3 +157,4 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
