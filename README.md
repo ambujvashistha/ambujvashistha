@@ -148,8 +148,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div align="right">
+  <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
 
 ---
