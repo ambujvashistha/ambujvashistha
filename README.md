@@ -13,7 +13,7 @@
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack 📟</h3>
 <table align="left">
   <tr>
     <td align="center" width="96">
@@ -105,7 +105,7 @@
       
    > **_"With great power, comes great responsibility."_**  
    
-<h3 align="center">Socials</h3>
+<h3 align="center">Socials 📌</h3>
 <table align="center">
   <tr>
     <td align="center" width="70">
@@ -147,7 +147,7 @@
 <br clear="both"/>
 
 ---
-# Holopins Badges
+# 🎖️ Holopins Badges 🏆
 
 [![An image of @ambujvashistha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ambujvashistha)](https://holopin.io/@ambujvashistha)
 
