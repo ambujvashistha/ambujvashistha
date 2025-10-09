@@ -147,7 +147,11 @@
 <br clear="both"/>
 
 ---
+# Holopins Badges
 
+[![An image of @ambujvashistha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ambujvashistha)](https://holopin.io/@ambujvashistha)
+
+---
 <div align="right">
   <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
