@@ -7,7 +7,7 @@
 </div>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-
+<!--![](https://assets.leetcode.com/static_assets/others/2550.gif)-->
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center">
 
