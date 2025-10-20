@@ -13,7 +13,7 @@
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
-<h3 align="left">Tech Stack 📟</h3>
+<h1 align="left">Tech Stack 📟</h1>
 <table align="left">
   <tr>
     <td align="center" width="96">
