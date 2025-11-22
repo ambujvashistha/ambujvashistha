@@ -9,8 +9,6 @@
 
 <!--![](https://assets.leetcode.com/static_assets/others/2550.gif)-->
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center">
-
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
 <h1 align="left">Tech Stack 📟</h1>
@@ -31,7 +29,7 @@
       <br>JavaScript
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
       </td>
   </tr>
@@ -40,17 +38,17 @@
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="typescript" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
     </td>
     </tr>
  <tr>
