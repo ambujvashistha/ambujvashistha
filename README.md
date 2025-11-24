@@ -150,8 +150,10 @@
 [![An image of @ambujvashistha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ambujvashistha)](https://holopin.io/@ambujvashistha)
 
 ---
-<div align="center">
+<div align="right">
    <!-- <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="180" /> -->
+
+   
   <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
 </div>
 
@@ -159,12 +161,47 @@
 
 ###
 
-<div align="center">
+<!-- <div align="left">
+   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ambujvashistha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujvashistha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-   <br><img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="165" />
+   <br><img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="145" />
   <img src="https://streak-stats.demolab.com?user=ambujvashistha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+   
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
+  </div>
+  
+  <div
+     [![LeetCode Stats](https://leetcard.jacoblin.cool/ambuj_vashistha?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/ambuj_vashistha/)
+  </div>
+</div> -->
+<div align="center">
+<table>
+   
+  <tr>
+     <td style="vertical-align: top; width: 500px;">
+      <a href="https://leetcode.com/u/ambuj_vashistha/">
+        <img 
+          src="https://leetcard.jacoblin.cool/ambuj_vashistha?theme=dark&font=Prompt&ext=heatmap" 
+          style="width: 100%; height: auto; object-fit: cover;"
+        />
+      </a>
+       <br>
+        <h3 align="center">Leetcode</h3>
+    </td>
+    <!-- LEFT SIDE: GitHub Stats Section -->
+    <td style="vertical-align: top; padding-right:0px;">
+       <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="140" />
+     <img src="https://github-readme-stats.vercel.app/api?username=ambujvashistha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujvashistha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=ambujvashistha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="142" alt="streak graph"  />
+           </td>
+    <!-- RIGHT SIDE: LeetCode Card -->
+  </tr>
+</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+
 
