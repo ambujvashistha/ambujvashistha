@@ -101,7 +101,7 @@
       style="object-fit: cover;"
        > 
       
-   > **_"With great power, comes great responsibility."_**  
+   > **_"With great power, comes great responsibility." ~ Ben Parker_**  
    
 <h3 align="center">Socials 📌</h3>
 <table align="center">
