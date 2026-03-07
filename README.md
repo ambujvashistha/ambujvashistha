@@ -160,6 +160,18 @@
 
 ###
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambujvashistha&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambujvashistha&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ambujvashistha&theme=radical) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambujvashistha&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ambujvashistha&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
+</div>
+
 <!-- <div align="left">
    <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ambujvashistha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
