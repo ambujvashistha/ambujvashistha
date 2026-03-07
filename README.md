@@ -197,5 +197,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambujvashistha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<!-- <a href="https://app.daily.dev/ambujvashistha"><img src="https://api.daily.dev/devcards/v2/p7sONHAp5qX9wDm5bP1vY.png?type=default&r=jnf" width="356" alt="Ambuj Vashistha's Dev Card"/></a>
 
 
+<a href="https://app.daily.dev/ambujvashistha"><img src="https://api.daily.dev/devcards/v2/p7sONHAp5qX9wDm5bP1vY.png?type=wide&r=jnf" width="652" alt="Ambuj Vashistha's Dev Card"/></a> -->
