@@ -160,7 +160,7 @@
 
 ###
 
-## 📊 GitHub Stats
+<h1> 📊 GitHub Stats</h1>
 
 <div align="center">
 
