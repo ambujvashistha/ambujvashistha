@@ -148,14 +148,11 @@
 
 [![An image of @ambujvashistha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ambujvashistha)](https://holopin.io/@ambujvashistha)
 
----
-<div align="right">
+
+<!-- <div align="right"> -->
    <!-- <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="180" /> -->
-
-   
-  <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" />
-</div>
-
+  <!-- <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" /> -->
+<!-- </div> -->
 ---
 
 ###
