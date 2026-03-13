@@ -185,7 +185,7 @@
           <br>
 <div style="display:flex; flex-direction:column; justify-content:space-between; height:500px;">
   <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="250"/>
-  <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="300"/>
+  <!-- <img src="./assets/svgs/text.svg" height="180" margin-bottom="20"/> -->
   <img src="./assets/svgs/image%20(2).png" width="280"/>
 </div>
   <!-- <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="140" /> -->
