@@ -184,9 +184,9 @@
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujvashistha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  /> -->
           <br>
 <div style="display:flex; flex-direction:column; justify-content:space-between; height:500px;">
+  <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="250"/>
   <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="300"/>
-  <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="300"/>
-  <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="300"/>
+  <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="250"/>
 </div>
   <!-- <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="140" /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=ambujvashistha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="142" alt="streak graph"  /> -->
