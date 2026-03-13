@@ -154,10 +154,10 @@
 
 <div align="center">
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambujvashistha&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambujvashistha&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ambujvashistha&theme=radical) |
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambujvashistha&theme=codeSTACKr) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ambujvashistha&theme=codeSTACKr) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ambujvashistha&theme=codeSTACKr) |
 |:-:|:-:|:-:|
 
-| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambujvashistha&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=ambujvashistha&theme=tokyonight&hide_border=false) |
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambujvashistha&theme=codeSTACKr) | ![Streak](https://streak-stats.demolab.com?user=ambujvashistha&theme=codeSTACKr&hide_border=false) |
 |:-:|:-:|
 
 </div>
