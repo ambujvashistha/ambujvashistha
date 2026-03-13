@@ -1,12 +1,5 @@
-<!--<h2 align="left">Ambuj Vashistha</h2> -->
 
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
-
-<!-- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div> -->
-<!-- <h3 align="center">A passionate frontend developer from India!!!</h3> -->
-<!--![](https://assets.leetcode.com/static_assets/others/2550.gif).-->
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
