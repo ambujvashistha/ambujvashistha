@@ -171,14 +171,7 @@
    <br><img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="145" />
   <img src="https://streak-stats.demolab.com?user=ambujvashistha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
    
-  
-  
-  </div>
-  
-  <div
-     [![LeetCode Stats](https://leetcard.jacoblin.cool/ambuj_vashistha?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/ambuj_vashistha/)
-  </div>
-</div> -->
+ -->
 <div align="center">
         <!-- <img src="https://github-readme-stats.vercel.app/api?username=ambujvashistha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />    -->
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujvashistha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  /> -->
