@@ -1,7 +1,7 @@
 
 ![Profile Banner](https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/Github%20Profile%20Pokemon.gif)
 
-<div id="tech-stack" style="display: flex; flex-direction: column;">.
+<div id="tech-stack" style="display: flex; flex-direction: column;">
 
 <h1 align="left">Tech Stack 📟</h1>
 <table align="left">
