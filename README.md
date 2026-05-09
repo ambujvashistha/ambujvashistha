@@ -160,7 +160,7 @@
 
 <!-- <div align="right"> -->
    <!-- <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="180" /> -->
-  <!-- <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" /> -->.
+  <!-- <img src="https://count.getloli.com/@:ambujvashistha?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=0" height="100" /> -->
 <!-- </div> -->
 
 
@@ -175,13 +175,13 @@
 <div align="center">
         <!-- <img src="https://github-readme-stats.vercel.app/api?username=ambujvashistha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />    -->
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambujvashistha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  /> -->
-          <br>
-<div style="display:flex; flex-direction:column; justify-content:space-between; height:500px;">
-  <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="250"/>
+          <!-- <br>
+<div style="display:flex; flex-direction:column; justify-content:space-between; height:500px;"> -->
+  <!-- <img src="./assets/svgs/clash-of-clans-clash-royale-witchcraft-troop-golem-clash-of-clans-69a197db161889578aec82b19d99e3ad.png" width="250"/> -->
   <!-- <img src="./assets/svgs/text.svg" height="180" margin-bottom="20"/> -->
-  <a href="https://app.daily.dev/ambujvashistha"><img src="https://api.daily.dev/devcards/v2/p7sONHAp5qX9wDm5bP1vY.png?type=default&r=jnf" height="330" alt="Ambuj Vashistha's Dev Card"/></a>
+  <!-- <a href="https://app.daily.dev/ambujvashistha"><img src="https://api.daily.dev/devcards/v2/p7sONHAp5qX9wDm5bP1vY.png?type=default&r=jnf" height="330" alt="Ambuj Vashistha's Dev Card"/></a>
   <img src="./assets/svgs/image%20(2).png" width="280"/>
-</div>
+</div> -->
   <!-- <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/mini_pekka_render_by_henukim_dgew8g0-pre.png" height="140" /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=ambujvashistha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="142" alt="streak graph"  /> -->
    
