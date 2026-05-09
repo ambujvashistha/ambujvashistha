@@ -3,7 +3,7 @@
 
 <div id="tech-stack" style="display: flex; flex-direction: column;">
 
-<h1 align="left">Tech Stack 📟</h1>
+<h1 align="left">✧⁠ Tech Stack </h1>
 <table align="left">
   <tr>
     <td align="center" width="96">
@@ -95,7 +95,7 @@
       
    > **_"With great power, comes great responsibility." ~ Ben Parker_**  
    
-<h3 align="center">Socials 📌</h3>
+<h3 align="center">✧⁠ Socials 📌</h3>
 <table align="center">
   <tr>
     <td align="center" width="70">
@@ -140,7 +140,7 @@
 
 ###
 
-<h1> 📊 GitHub Stats</h1>
+<h1>✧⁠ GitHub Stats ⁠</h1>
 
 <div align="center">
 
