@@ -128,6 +128,17 @@
         </a>
          <br>Gmail
       </td>
+    <td align="center" width="70">
+  <a href="https://your-portfolio-link.com" target="blank">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
+      width="55" 
+      height="40" 
+      alt="portfolio logo"
+    />
+  </a>
+  <br>Portfolio
+</td>
      
   </tr>
 
