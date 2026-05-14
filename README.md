@@ -97,37 +97,37 @@
 <h3 align="center">✧⁠ Socials 📌</h3>
 <table align="center">
   <tr>
-    <td align="center" width="65">
+    <td align="center" width="60">
         <a href="https://linkedin.com/in/ambuj-vashistha" target="blank">
        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  margin="5"/>
         </a>
        <br>Linkedin
     </td>
-      <td align="center" width="65">
+      <td align="center" width="60">
       <a href="https://codeforces.com/profile/ambuj_vashistha" target="blank">
         <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/code-forces.svg" width="55" height="40" alt="codeforces logo"  />
       </a>
       <br>Codeforces
     </td>
-    <td align="center" width="65">
+    <td align="center" width="60">
         <a href="https://leetcode.com/u/ambuj_vashistha/" target="blank">
         <img src="https://github.com/ambujvashistha/ambujvashistha/blob/main/assets/icons/leetcode.svg" width="55" height="40" alt="leetcode logo"  />
         </a>
        <br>Leetcode
     </td>
-     <td align="center" width="65">
+     <td align="center" width="60">
       <a href="https://www.youtube.com/@ambujvashistha" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
       </a>
         <br>Youtube
     </td>
-     <td align="center" width="65">
+     <td align="center" width="60">
         <a href="mailto:ambujva123@gmail.com">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  /> 
         </a>
          <br>Gmail
       </td>
-    <td align="center" width="65">
+    <td align="center" width="60">
   <a href="https://ambuj-vashistha.vercel.app" target="blank">
     <img width="55" height="40" alt="omnitrix_rotating__animation__by_thehawkdown_da1hl4k-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/217e0a99-bf9f-4fae-9e87-a65847f7ba6a" />
     <!-- <img 
